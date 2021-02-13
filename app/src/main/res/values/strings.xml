@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="test">test</string>
+    <string name="barbeque">barbeque</string>
+    <string name="title_here">title here</string>
+    <string name="spoonacular_score">Spoonacular Score</string>
+</resources>

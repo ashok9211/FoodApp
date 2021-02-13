@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Image_Height">200dp</dimen>
+    <dimen name="Recipe_Title_Height">18sp</dimen>
+    <dimen name="Recipe_Publisher">16sp</dimen>
+    <dimen name="RcyclerView_Loading_Height">80dp</dimen>
+</resources>
